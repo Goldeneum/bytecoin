@@ -115,4 +115,5 @@ struct CheckpointData {
 
 constexpr const CheckpointData CHECKPOINTS[] = {
     {79000, "cae33204e624faeb64938d80073bb7bbacc27017dc63f36c5c0f313cad455a02"},
-}  // CryptoNote
+};  // CryptoNote
+}
